@@ -83,9 +83,17 @@ HELLO WORLD<br>
 |내용3|????123|ccc|
 
 
-# 코드블럭
-
-
+# 코드블럭(삼중 백틱)
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>HELLO WORLD</h1>
+  </body>
+</html>
+```
 
 
 
