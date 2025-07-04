@@ -64,8 +64,11 @@ HELLO WORLD<br>
 <a href="https://naver.com" target="_blank">새탭 열고 이동</a>
 
 # 이미지
+![제목](./tree.jpg)
 
+---
 
+<img src="./tree.jpg" width="300" height="200" alr="" />
 
 
 # 인용문
