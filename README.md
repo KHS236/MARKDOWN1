@@ -15,7 +15,7 @@
 CONTENTS
 ---
 
-
+<!-- 줄바꿈 : 문장 끝에 Space 2회 -->
 
 
 
@@ -57,7 +57,7 @@ CONTENTS
 
 ## 링크(바로가기)
 [네이버](https://naver.com)  
-
+<a href="https://naver.com" target="_blank">새탭 열고 이동</a>
 
 
 
